@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/stellar_s2.mk
+    $(LOCAL_DIR)/bliss_s2.mk
 
 COMMON_LUNCH_CHOICES := \
-    stellar_s2-user \
-    stellar_s2-userdebug \
-    stellar_s2-eng
+    bliss_s2-user \
+    bliss_s2-userdebug \
+    bliss_s2-eng
