@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys_s2.mk
+    $(LOCAL_DIR)/aosp_s2.mk
 
 COMMON_LUNCH_CHOICES := \
-    pixys_s2-user \
-    pixys_s2-userdebug \
-    pixys_s2-eng
+    aosp_s2-user \
+    aosp_s2-userdebug \
+    aosp_s2-eng
